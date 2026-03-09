@@ -24,10 +24,11 @@ This repository includes small examples and experiments related to:
 langchain-learning
 │
 ├─ examples
-│ ├─ 01-basic-runable.py
-│ ├─ 02-basic_chat_model.py
-│ ├─ 03-basic-schema.py
-│ ├─ 04-basic_prompt_message.py
+│ ├─ 01 - basic-runable.py
+│ ├─ 02 - basic_chat_model.py
+│ ├─ 03 - basic-schema.py
+│ ├─ 04 - basic_prompt_message.py
+│ ├─ 05 - basic-output-parser.py
 │ └─ 
 │
 ├─ main.py

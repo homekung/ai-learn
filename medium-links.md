@@ -49,5 +49,9 @@ Understanding prompt templates, chat prompts, and message roles.
 https://medium.com/@chanarachlimbanjerdkul/langchain-prompt-%E0%B9%81%E0%B8%A5%E0%B8%B0-message-b2a0fa8aa1bd
 
 ---
+### 7. Output Parsers and Structured Outputs
+Understanding Output Parsers, Json Parser, Pydantic Parser and Structured Outputs
+
+https://medium.com/@chanarachlimbanjerdkul/langchain-output-parsers-and-structured-outputs-9495496256ac 
 
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
