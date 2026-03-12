@@ -23,6 +23,9 @@ This repository includes small examples and experiments related to:
 ```bash
 langchain-learning
 │
+├─ demo
+│ ├─ 01 - movie-review-bot.py
+│ └─ 
 ├─ examples
 │ ├─ 01 - basic-runable.py
 │ ├─ 02 - basic_chat_model.py

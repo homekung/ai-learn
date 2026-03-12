@@ -54,4 +54,12 @@ Understanding Output Parsers, Json Parser, Pydantic Parser and Structured Output
 
 https://medium.com/@chanarachlimbanjerdkul/langchain-output-parsers-and-structured-outputs-9495496256ac 
 
+---
+### 8. Movie Review Bot ด้วย LangChain + Structured Output และ LangSmith (Step-by-Step Tutorial)
+
+Movie Review Bot Demo using LangChain + Structured Output and LangSmith
+
+https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-movie-review-bot-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-structured-output-%E0%B9%81%E0%B8%A5%E0%B8%B0-langsmith-step-by-step-tutorial-099c9562e86f?postPublishedType=initial 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
