@@ -16,6 +16,7 @@ This repository includes small examples and experiments related to:
 - Prompt Templates
 - Message Types
 - Schema and Structured Data
+- Chain Pattern and debugging
 
 ---
 
@@ -32,6 +33,8 @@ langchain-learning
 │ ├─ 03 - basic-schema.py
 │ ├─ 04 - basic_prompt_message.py
 │ ├─ 05 - basic-output-parser.py
+│ ├─ 06 - basic-chain-pattern.py
+│ ├─ 07 - basic-chain-debug.py
 │ └─ 
 │
 ├─ main.py

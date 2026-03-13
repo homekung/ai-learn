@@ -59,7 +59,21 @@ https://medium.com/@chanarachlimbanjerdkul/langchain-output-parsers-and-structur
 
 Movie Review Bot Demo using LangChain + Structured Output and LangSmith
 
-https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-movie-review-bot-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-structured-output-%E0%B9%81%E0%B8%A5%E0%B8%B0-langsmith-step-by-step-tutorial-099c9562e86f?postPublishedType=initial 
+https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-movie-review-bot-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-structured-output-%E0%B9%81%E0%B8%A5%E0%B8%B0-langsmith-step-by-step-tutorial-099c9562e86f 
+
+---
+### 9. AI Workflows with LangChain: Parallel, Passthrough, and Branching
+
+Basic AI Workflows with LangChain: Parallel, Passthrough, and Branching
+
+https://medium.com/@chanarachlimbanjerdkul/ai-workflows-with-langchain-parallel-passthrough-and-branching-7a1e8eb77c2d
+
+---
+### 10. Debugging LangChain Chains: Understanding What Happens Inside Your AI Pipeline
+
+Basic Debugging Method for LangChain Chains
+
+https://medium.com/@chanarachlimbanjerdkul/debugging-langchain-chains-understanding-what-happens-inside-your-ai-pipeline-c72f2ee02f2c
 
 ---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
