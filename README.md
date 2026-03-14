@@ -35,6 +35,7 @@ langchain-learning
 │ ├─ 05 - basic-output-parser.py
 │ ├─ 06 - basic-chain-pattern.py
 │ ├─ 07 - basic-chain-debug.py
+│ ├─ 08 - basic-loader.py
 │ └─ 
 │
 ├─ main.py

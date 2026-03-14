@@ -88,9 +88,3 @@ if __name__ == "__main__":
     #basic_directory_lazy_loader()
     #document_structure()
     basic_pdf_loader("./docs/sample.pdf")
-
-    
-
-
-
-
