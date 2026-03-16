@@ -174,14 +174,8 @@ def basic_document_splitter():
     print(f"\nLast chunk metadata: {split_docs[-1].metadata}")
 
 if __name__ == "__main__":
-    #basic_recursive_splitter()
-    #basic_overlap()
-    #basic_markdown_spliter()
-    #basic_code_splitter()
+    basic_recursive_splitter()
+    basic_overlap()
+    basic_markdown_spliter()
+    basic_code_splitter()
     basic_document_splitter()
-
-    
-
-
-
-
