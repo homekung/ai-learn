@@ -90,4 +90,18 @@ Basic Splitter - text splitter, document splitter, chunk size, overlap size, mar
 https://medium.com/@chanarachlimbanjerdkul/langchain-text-splitter-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-chunk-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-rag-%E0%B9%81%E0%B8%A5%E0%B8%B0-llm-11ef71015323
 
 ---
+### 13. RAG Architecture Overview — LLM หาคำตอบจากข้อมูลเราได้ยังไง?
+
+RAG Architecture Overview - Indexing, Retrieval and Generation
+
+https://medium.com/@chanarachlimbanjerdkul/rag-architecture-overview-llm-%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%B3%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-192fd28abffc 
+
+---
+### 14. From Words to Vectors: เข้าใจ Embeddings และ Semantic Search
+
+Basic Embeddings and Vector - Single, Batch, Chaching and Semantic Search
+
+https://medium.com/@chanarachlimbanjerdkul/from-words-to-vectors-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-embeddings-%E0%B9%81%E0%B8%A5%E0%B8%B0-semantic-search-ad5224fd9147 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.

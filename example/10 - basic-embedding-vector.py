@@ -104,8 +104,3 @@ if __name__ == "__main__":
     #batch_embeddings()
     #similarity_search()
     embedding_caching()
-    
-
-
-
-

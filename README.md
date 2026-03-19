@@ -17,6 +17,8 @@ This repository includes small examples and experiments related to:
 - Message Types
 - Schema and Structured Data
 - Chain Pattern and debugging
+- RAG - Indexing, Retrieval and Generation
+- Indexing - Document Loader, Splitter (Chunk), Embedding and Vector storage
 
 ---
 
@@ -37,6 +39,7 @@ langchain-learning
 │ ├─ 07 - basic-chain-debug.py
 │ ├─ 08 - basic-loader.py
 │ ├─ 09 - basic-splitter.py
+│ ├─ 10 - basic-embedding-vector.py
 │ └─ 
 │
 ├─ main.py
