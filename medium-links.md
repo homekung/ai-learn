@@ -104,4 +104,18 @@ Basic Embeddings and Vector - Single, Batch, Chaching and Semantic Search
 https://medium.com/@chanarachlimbanjerdkul/from-words-to-vectors-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-embeddings-%E0%B9%81%E0%B8%A5%E0%B8%B0-semantic-search-ad5224fd9147 
 
 ---
+### 15. Vector Store with Chroma (LangChain)
+
+Basic Verctor store with Chroma, similarity serach, meta data filtering, retriver.
+
+https://medium.com/@chanarachlimbanjerdkul/vector-store-with-chroma-langchain-d36ccf27236c 
+
+---
+### 16. สร้าง RAG Pipeline แรกด้วย LangChain + Chroma (ไม่ใช้ LLM)
+
+Demo first and basic RAG pipeline with Chroma (without LLM)
+
+https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-rag-pipeline-%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-chroma-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89-llm-663d0e480548 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.

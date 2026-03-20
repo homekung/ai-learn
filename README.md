@@ -19,6 +19,7 @@ This repository includes small examples and experiments related to:
 - Chain Pattern and debugging
 - RAG - Indexing, Retrieval and Generation
 - Indexing - Document Loader, Splitter (Chunk), Embedding and Vector storage
+- Vector Store with Chroma, similarity, persist , retriever
 
 ---
 
@@ -28,6 +29,7 @@ langchain-learning
 │
 ├─ demo
 │ ├─ 01 - movie-review-bot.py
+│ ├─ 02 - simple-rag.py
 │ └─ 
 ├─ examples
 │ ├─ 01 - basic-runable.py
@@ -40,6 +42,7 @@ langchain-learning
 │ ├─ 08 - basic-loader.py
 │ ├─ 09 - basic-splitter.py
 │ ├─ 10 - basic-embedding-vector.py
+│ ├─ 11 - basic-vector-store.py
 │ └─ 
 │
 ├─ main.py

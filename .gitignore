@@ -11,3 +11,6 @@ wheels/
 
 # private key
 .env
+
+#chroma_db
+chroma_db
