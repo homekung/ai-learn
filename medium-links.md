@@ -118,4 +118,11 @@ Demo first and basic RAG pipeline with Chroma (without LLM)
 https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-rag-pipeline-%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-chroma-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89-llm-663d0e480548 
 
 ---
+### 17. Basic RAG Workflow ด้วย LangChain (ฉบับเข้าใจง่าย)
+
+Basic RAG Workflow with Source and Structured Output, including QA document demo
+
+https://medium.com/@chanarachlimbanjerdkul/basic-rag-workflow-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-38e5f6ad1481 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
