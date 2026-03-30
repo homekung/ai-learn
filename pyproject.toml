@@ -15,4 +15,5 @@ dependencies = [
     "langgraph>=1.0.10",
     "pypdf>=6.8.0",
     "python-dotenv>=1.2.2",
+    "rank-bm25>=0.2.2",
 ]

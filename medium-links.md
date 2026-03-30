@@ -125,4 +125,11 @@ Basic RAG Workflow with Source and Structured Output, including QA document demo
 https://medium.com/@chanarachlimbanjerdkul/basic-rag-workflow-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-38e5f6ad1481 
 
 ---
+### 18. Advanced RAG ด้วย LangChain: ยกระดับ Retrieval ให้ฉลาดขึ้น
+
+Multi-Query, Compression, Hybrid, Parent Docs
+
+https://medium.com/@chanarachlimbanjerdkul/advanced-rag-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A-retrieval-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-multi-query-compression-hybrid-aae81bdab8e4
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
