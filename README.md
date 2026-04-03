@@ -21,6 +21,7 @@ This repository includes small examples and experiments related to:
 - Indexing - Document Loader, Splitter (Chunk), Embedding and Vector storage
 - Vector Store with Chroma, similarity, persist , retriever
 - RAG workflow - Multi-Query, Compression, Hybrid, Parent Docs
+- Memory - Basic Memory, Multi-user, Trim, Window, Summary and Persistent with SQL
 
 ---
 
@@ -48,6 +49,7 @@ langchain-learning
 │ ├─ 11 - basic-vector-store.py
 │ ├─ 12 - basic-rag-workflow.py
 │ ├─ 13 - advanced-rag.py
+│ ├─ 14 - basic-memory.py
 │ └─ 
 │
 ├─ main.py

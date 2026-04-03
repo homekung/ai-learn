@@ -14,3 +14,4 @@ wheels/
 
 #chroma_db
 chroma_db
+chat_history.db

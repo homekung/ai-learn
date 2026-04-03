@@ -132,4 +132,11 @@ Multi-Query, Compression, Hybrid, Parent Docs
 https://medium.com/@chanarachlimbanjerdkul/advanced-rag-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-langchain-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A-retrieval-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-multi-query-compression-hybrid-aae81bdab8e4
 
 ---
+### 19. เข้าใจ Memory ใน LangChain: จากพื้นฐานสู่ระดับ Production
+
+Memory แบบพื้นฐาน, การรองรับหลาย user, การควบคุม token ไปจนถึง Memory แบบ Production
+
+https://medium.com/@chanarachlimbanjerdkul/%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-memory-%E0%B9%83%E0%B8%99-langchain-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A-production-2f713697e204
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
