@@ -34,6 +34,7 @@ langchain-learning
 │ ├─ 02 - simple-rag.py
 │ ├─ 03 - basic-qa-document.py
 │ ├─ 04 - advanced-qa-document.py
+│ ├─ 05 - ai-research-assistant.py
 │ └─ 
 ├─ examples
 │ ├─ 01 - basic-runable.py

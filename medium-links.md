@@ -139,4 +139,11 @@ Memory แบบพื้นฐาน, การรองรับหลาย u
 https://medium.com/@chanarachlimbanjerdkul/%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-memory-%E0%B9%83%E0%B8%99-langchain-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A-production-2f713697e204
 
 ---
+### 20. สร้าง AI Research Assistant ด้วย RAG: ตั้งแต่ Indexing จนถึง Memory
+
+AI Research Assistant Demo ด้วย RAG: ตั้งแต่ Indexing จนถึง Memory Step-by-step
+
+https://medium.com/@chanarachlimbanjerdkul/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-ai-research-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-rag-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-indexing-%E0%B8%88%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87-memory-ef9cb0a58591 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
