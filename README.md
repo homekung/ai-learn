@@ -22,6 +22,7 @@ This repository includes small examples and experiments related to:
 - Vector Store with Chroma, similarity, persist , retriever
 - RAG workflow - Multi-Query, Compression, Hybrid, Parent Docs
 - Memory - Basic Memory, Multi-user, Trim, Window, Summary and Persistent with SQL
+- LangGraph - Basic Node, Edge, State
 
 ---
 
@@ -35,6 +36,7 @@ langchain-learning
 │ ├─ 03 - basic-qa-document.py
 │ ├─ 04 - advanced-qa-document.py
 │ ├─ 05 - ai-research-assistant.py
+│ ├─ 06 - conversation-graph-demo.py
 │ └─ 
 ├─ examples
 │ ├─ 01 - basic-runable.py
@@ -51,6 +53,7 @@ langchain-learning
 │ ├─ 12 - basic-rag-workflow.py
 │ ├─ 13 - advanced-rag.py
 │ ├─ 14 - basic-memory.py
+│ ├─ 15 - basic-langgraph.py
 │ └─ 
 │
 ├─ main.py
