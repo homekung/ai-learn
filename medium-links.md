@@ -153,4 +153,11 @@ LangGraph เบื้องต้น: Basic Node, State และ Edge
 https://medium.com/@chanarachlimbanjerdkul/langgraph-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%88%E0%B8%B2%E0%B8%81-linear-chain-%E0%B8%AA%E0%B8%B9%E0%B9%88-graph-based-ai-workflow-f5f3122726b9
 
 ---
+### 22. LangGraph: Conditional Edge — Basic Routing and Looping
+
+LangGraph เบื้องต้น: Conditional Edge: Basic Routing and Looping
+
+https://medium.com/@chanarachlimbanjerdkul/langgraph-conditional-edge-basic-routing-and-looping-13e7d459aef2 
+
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
