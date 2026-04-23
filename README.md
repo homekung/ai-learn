@@ -23,6 +23,7 @@ This repository includes small examples and experiments related to:
 - RAG workflow - Multi-Query, Compression, Hybrid, Parent Docs
 - Memory - Basic Memory, Multi-user, Trim, Window, Summary and Persistent with SQL
 - LangGraph - Basic Node, Edge, State, Condition Edge
+- LangGraph - Human in the Loop - Checkpoint, Thread Id
 
 ---
 
@@ -55,6 +56,7 @@ langchain-learning
 │ ├─ 14 - basic-memory.py
 │ ├─ 15 - basic-langgraph.py
 │ ├─ 16 - basic-condition-edge.py
+│ ├─ 17 - basic-human-interrupt.py
 │ └─ 
 │
 ├─ main.py
