@@ -167,4 +167,10 @@ LangGraph Human-in-the-Loop: basic Checkpoint and thread id
 https://medium.com/@chanarachlimbanjerdkul/human-in-the-loop-in-langgraph-%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-ai-%E0%B8%A3%E0%B8%AD%E0%B8%84%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B8%95%E0%B9%88%E0%B8%AD-a7053ac8e696
 
 ---
+### 24. LangGraph Checkpoint: ทำให้ LLM “จำ”, “ย้อนกลับ”, และ “แตกแขนง” ได้
+
+LangGraph Human-in-the-Loop: deepdive Checkpoint
+
+https://medium.com/@chanarachlimbanjerdkul/langgraph-checkpoint-%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-llm-%E0%B8%88%E0%B8%B3-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%81%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%82%E0%B8%99%E0%B8%87-%E0%B9%84%E0%B8%94%E0%B9%89-855c7ce85f8f 
+---
 More articles will be added as I continue learning and experimenting with LangChain and AI agents.
